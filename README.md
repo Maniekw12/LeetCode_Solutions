@@ -7,3 +7,4 @@ This repository is a personal challenge for me to solve **at least one LeetCode 
 - Track progress and improvement over time.
 - Learn new algorithms and data structures.
 
+[Source](https://seanprashad.com/leetcode-patterns)
